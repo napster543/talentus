@@ -1,0 +1,5 @@
+
+
+composer install
+-- se instala para las clases
+composer dump-autoload -o
